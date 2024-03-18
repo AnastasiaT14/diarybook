@@ -1,4 +1,3 @@
 # DiaryBookManager
 
-
-Have fun ;) 
+Have fun ;)
